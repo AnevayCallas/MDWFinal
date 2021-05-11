@@ -1,0 +1,22 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  color: Black;
+  margin-left: 20px;
+}
+#div1 {
+  background-color: DarkSeaGreen;
+  margin: 30px;
+  padding: 20px;
+  font: Georgia, serif; 
+  border: "20px";
+}
+#div2 {
+  background-color: thistle;
+  margin: 30px;
+  padding: 20px;
+  font: Georgia, serif; 
+  border: "20px";
+}
